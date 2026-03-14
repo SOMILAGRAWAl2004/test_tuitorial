@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+“Hello, my name is Somil Agrawal, and I am currently a third-year Computer Science and Engineering student at Bharati Vidyapeeth Deemed to be University College of Engineering, Pune. I have a strong foundation in Java, C, and Database Management Systems, and I enjoy building practical and scalable applications.
+
+I have worked on several projects, including a Java music player and a full-stack e-commerce platform, where I gained experience in backend development and system design. I am also the Secretary of the ACM Student Chapter at my college, where I help organize technical events and initiatives.
+
+Recently, I was selected as a Finalist in Smart India Hackathon (SIH) 2025, where I also served as the Team Lead, leading the development and coordination of the project. Along with this, I have completed NPTEL certifications in Programming in Java and DBMS.
+
+I am passionate about continuously improving my technical skills, especially in areas like data science, cloud technologies, and scalable system development, and I look forward to applying these skills in real-world impactful projects.”
