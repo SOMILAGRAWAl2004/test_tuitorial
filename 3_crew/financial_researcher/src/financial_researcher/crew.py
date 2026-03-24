@@ -7,6 +7,8 @@ from crewai_tools import SerperDevTool
 class ResearchCrew():
     """Research crew for comprehensive topic analysis and reporting"""
 
+    agents_config = 'config/agents.yaml'
+    tasks_config = 'config/tasks.yaml'
     @agent
     def researcher(self) -> Agent:
         return Agent(
